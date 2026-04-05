@@ -1,0 +1,10 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'DM Sans', 'Helvetica Neue', sans-serif;
+  background: #030712;
+  color: #f3f4f6;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+button { cursor: pointer; border: none; background: none; font-family: inherit; }
+ul { list-style: none; }
